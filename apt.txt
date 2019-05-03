@@ -1,1 +1,3 @@
-libmagick+±dev
+brew install rustc 
+
+brew install libmagick+±dev
