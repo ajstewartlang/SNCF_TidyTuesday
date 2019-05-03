@@ -1,1 +1,2 @@
-libmagick+±dev
+magick
+rustc
