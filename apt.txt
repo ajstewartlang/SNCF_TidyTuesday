@@ -1,6 +1,2 @@
 libmagick++-dev
-
 cargo
-=======
-libgifski++-dev
-librustc++-dev
