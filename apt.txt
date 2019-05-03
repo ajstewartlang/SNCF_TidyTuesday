@@ -1,1 +1,3 @@
 libmagick++-dev
+libgifski++-dev
+librustc++-dev
