@@ -1,1 +1,1 @@
-libmagick+±dev
+install libmagick+±dev
